@@ -1,7 +1,10 @@
 numpy
-pandas
 matplotlib
 seaborn
-sklearn
 ipywidgets
 nbinteract
+Anaconda
+IPython
+Python3
+Pandas
+Scikit-learn
