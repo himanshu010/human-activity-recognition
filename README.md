@@ -1,15 +1,17 @@
-# human-activity-recognition<br>
+# Human-Activity-Recognition<br>
 
-### Main technologies associated with the system are:<br>
-⦁ Anaconda<br>
-⦁ IPython<br>
-⦁ Python3 (+ modules)<br>
-⦁ Numpy<br>
-⦁ Pandas<br>
-⦁ Scikit-learn<br>
-⦁ Matplotlib<br>
-⦁ Seaborn<br>
-All these technologies are freely available and implementable. Therefore, the project is technically feasible.
+### Main technologies associated with the system are: <br>
+<ul>
+<li> Anaconda </li> 
+<li> IPython </li>
+<li> Python3 (+ modules)</li> 
+<li> Numpy</li> 
+<li> Pandas</li> 
+<li> Scikit-learn</li> 
+<li> Matplotlib </li> 
+<li> Seaborn </li> 
+</ul>	
+ <b> All these technologies are freely available and implementable. Therefore, the project is technically feasible.</b>
 
 ### SYSTEM REQUIREMENTS
 #### Hardware Requirement 
@@ -25,6 +27,16 @@ Scripting Languages:  IPython<br>
 Operating System: 	I) Windows 7 or newer<br>
 				ii) MacOS 10.10+ <br>
 				iii) Linux (Ubuntu, RedHat, CentOS 6+)<br>
+				
+
+## Getting Started 
+* <h3>Step 1 :</h3> <b>Clone the repository in your local Machine:</b> git clone https://github.com/himanshu010/human-activity-recognition.git
+
+* <h3>Step 2 :</h3> <b>Change the directory into the cloned repository :</b> cd human-activity-recognition
+
+* <h3>Step 3 :</h3> <b>Install the required python libraries :</b> pip install -r requirements.txt
+
+* <h3>Step 4 :</h3> <b>Run the project in local Machine :</b> Navigate & open Logistic regression.ipynb file in jupyter notebook 
 				
 ## INTRODUCTION TO PROPOSED SYSTEM
 
