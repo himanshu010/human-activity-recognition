@@ -26,6 +26,18 @@ Operating System: 	I) Windows 7 or newer<br>
 				ii) MacOS 10.10+ <br>
 				iii) Linux (Ubuntu, RedHat, CentOS 6+)<br>
 				
+## Getting Started 				
+<ul>
+<li> <b>Clone the repository in your local Machine:</b> git clone https://github.com/himanshu010/human-activity-recognition.git </li>
+
+<li> <b>Change the directory into the cloned repository :</b> cd human-activity-recognition </li>
+
+<li> <b>Install the required python libraries :</b> pip install -r requirements.txt </li>
+
+<li> <b>Run the project in local Machine :</b> Navigate & open Logistic regression.ipynb file in jupyter notebook </li>
+</ul>				
+				
+				
 ## INTRODUCTION TO PROPOSED SYSTEM
 
 ### PROBLEM STATEMENT
