@@ -68,3 +68,13 @@ The system will generate the following outputs:
 
 ⦁	The system will output the visualization of the relation between activity predicted and actual activity.  
 ⦁	Rapid Test Result and a plot showing its relationship with the ideal values.
+
+# License
+## GNU General Public License, version 3 (GPLv3).
+
+### Conditions under this License:-
+    1. The source code must be made public whenever a distribution of the software is made.
+    2. Modifications of the software must be released under the same license.
+    3. Changes made to the source code must be documented.
+    4. If patented material was used in the creation of the software, it grants the right for users to use it. If the user sues anyone over the use of the patented material, they lose the right to use the software.
+![Screenshot (23)](https://user-images.githubusercontent.com/43860289/68322761-05549d00-00ea-11ea-9a70-de8442fe84f4.png)
