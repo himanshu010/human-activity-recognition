@@ -1,5 +1,5 @@
 # human-activity-recognition<br>
-
+## Run it online : https://colab.research.google.com/drive/1vYeaykIwtcBYjrJSo-_tqoFJkD6IcbRe
 ### Main technologies associated with the system are:<br>
 ⦁ Anaconda<br>
 ⦁ IPython<br>
