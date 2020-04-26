@@ -1,10 +1,6 @@
-numpy
+jupyter
 matplotlib
-seaborn
-ipywidgets
-nbinteract
-Anaconda
-IPython
-Python3
-Pandas
-Scikit-learn
+numpy
+pandas
+scipy
+scikit-learn
